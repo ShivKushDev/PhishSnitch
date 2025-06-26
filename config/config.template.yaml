@@ -1,0 +1,35 @@
+# Template configuration file - Copy to config.yaml and fill in your values
+gmail:
+  credentials_path: config/credentials.json
+  check_interval: 120  # 5 minutes in seconds
+
+urlscan:
+  api_key: "your-api-key-here"  # Get from urlscan.io
+  cache_duration: 3600  # 1 hour in seconds
+
+security:
+  whitelist:
+    # Common trusted email and business platforms
+    - "gmail.com"
+    - "google.com"
+    - "microsoft.com"
+    - "office365.com"
+    - "outlook.com"
+    - "linkedin.com"
+    - "zoom.us"
+    - "slack.com"
+    - "github.com"
+    - "amazonaws.com"
+    - "dropbox.com"
+
+  blacklist:
+    # Known suspicious patterns (examples)
+    - "secure-login-verify.com"
+    - "account-security-check.com"
+    - "banking-verify-now.com"
+    
+  risk_threshold: 70  # Alerts for threats scoring above this
+
+alerts:
+  history_path: data/alert_history.json
+  desktop_notifications: true
