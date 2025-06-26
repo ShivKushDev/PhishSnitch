@@ -1,0 +1,1411 @@
+[
+  {
+    "timestamp": "2025-06-23T22:34:10.348377",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:34:10.348377",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:34:28.461628",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:34:28.461628",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:34:46.602128",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:34:46.602128",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:35:04.697137",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:35:04.697137",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:35:23.828098",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:35:23.828098",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:35:42.413550",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:35:42.413550",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:36:00.974221",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:36:00.974221",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:36:19.115552",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:36:19.115552",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:36:36.683282",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:36:36.683282",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:36:54.363353",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:36:54.363353",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:39:08.078336",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Small Scale, Big Vibe",
+      "sender": "Touch of Modern <hello@p.touchofmodern.com>",
+      "received_time": "23 Jun 2025 20:25:55 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:39:08.078336",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:43:07.358188",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "\ud83d\udcb3 Join Morph Consumer Buildathon: Let\u2019s Build On-Chain Finance, $15K in Prizes!",
+      "sender": "DoraHacks <hackathon@mail.dorahacks.io>",
+      "received_time": "Tue, 24 Jun 2025 02:36:14 +0000"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:43:07.358188",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-23T22:43:42.256683",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "\ud83d\udcb3 Join Morph Consumer Buildathon: Let\u2019s Build On-Chain Finance, $15K in Prizes!",
+      "sender": "DoraHacks <hackathon@mail.dorahacks.io>",
+      "received_time": "Tue, 24 Jun 2025 02:36:14 +0000"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-23T22:43:42.256683",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:07:02.598784",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:07:02.598784",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:08:03.713903",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:08:03.712900",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:10:23.712787",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:10:23.712787",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:12:42.772960",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:12:42.772960",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:14:58.459200",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:14:58.459200",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:17:16.949423",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:17:16.949423",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:19:36.574789",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:19:36.574789",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:21:54.182564",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:21:54.182564",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:24:12.793547",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:24:12.793547",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T15:26:32.421107",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-24T15:26:32.421107",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,26 @@
+# Core dependencies
+google-api-python-client>=2.0.0
+google-auth-oauthlib>=0.4.6
+google-auth-httplib2>=0.1.0
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+pyyaml>=6.0.0
+urllib3>=1.26.0
+
+# Platform-specific notification dependencies
+win10toast>=0.9.0; sys_platform == 'win32'
+# Note: For macOS, terminal-notifier should be installed via brew
+# For Linux, notify-send is typically pre-installed with libnotify
+
+# Testing and development
+pytest>=7.0.0
+pytest-asyncio>=0.18.0  # Required for async tests
+pytest-cov>=3.0.0
+asyncio>=3.4.3  # Required for async/await support
+black>=22.0.0  # Code formatting
+flake8>=4.0.0  # Code linting
+mypy>=0.950  # Type checking
+
+# Documentation
+sphinx>=4.5.0
+sphinx-rtd-theme>=1.0.0
