@@ -3,7 +3,7 @@
   
   <!-- === Banner Placeholder === -->
   <!-- Replace below with your actual banner image URL -->
-  ![PhishSnitch Banner](PLACEHOLDER_FOR_BANNER_IMAGE)
+  ![PhishSnitch Banner](https://github.com/ShivKushDev/PhishSnitch/blob/main/PHISH%20SNITCH.png?raw=true)
 
   <hr>
   <h3 align="center">
