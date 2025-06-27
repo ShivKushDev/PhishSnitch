@@ -154,12 +154,12 @@ python -m pytest --cov=src tests/
 
 ---
 
-## 📸 Screenshots & Demos
-
-<!-- Replace these placeholders with actual image URLs -->
-- ![UI Screenshot](PLACEHOLDER_FOR_UI_IMAGE)
-- ![Alert Notification](PLACEHOLDER_FOR_NOTIFICATION_IMAGE)
-- ![JSON History](PLACEHOLDER_FOR_HISTORY_IMAGE)
+[comment]: ## 📸 Screenshots & Demos
+[comment]: 
+[comment]: <!-- Replace these placeholders with actual image URLs -->
+[comment]: - ![UI Screenshot](PLACEHOLDER_FOR_UI_IMAGE)
+[comment]: - ![Alert Notification](PLACEHOLDER_FOR_NOTIFICATION_IMAGE)
+[comment]: - ![JSON History](PLACEHOLDER_FOR_HISTORY_IMAGE)
 
 ---
 
