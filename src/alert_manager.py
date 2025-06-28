@@ -127,27 +127,33 @@ class AlertManager:
             'LOW': '📝',
             'SAFE': '✅'
         }.get(alert_data['risk_level'], '❓')
-        
-        message = [
+
+        # Create message parts
+        parts = [
             f"{risk_icon} {alert_data['risk_level']} THREAT DETECTED {risk_icon}",
-            f"Score: {alert_data['threat_score']}/100\n",
-            "Email Details:",
-            f"Subject: {alert_data['email_info']['subject']}",
-            f"From: {alert_data['email_info']['sender']}",
-            f"URL: {alert_data.get('url', 'No URL')}\n",
-            "Threat Analysis:",
+            f"\n📊 Threat Score: {alert_data['threat_score']}/100",
+            "\n📧 Email Details:",
+            f"   Subject: {alert_data['email_info']['subject']}",
+            f"   From: {alert_data['email_info']['sender']}",
+            f"\n🔗 URL: {alert_data.get('url', 'No URL')}",
+            "\n🔍 Threat Analysis:",
         ]
-        
-        # Add threat category scores
-        for category, score in alert_data['threats'].items():
-            message.append(f"- {category.replace('_', ' ').title()}: {score:.2f}")
-        
+
+        # Add threat scores
+        threat_scores = [
+            f"   {k.replace('_', ' ').title()}: {v:.2f}"
+            for k, v in alert_data['threats'].items()
+            if v > 0.3
+        ]
+        parts.extend(threat_scores)
+
+        # Add recommendations
         if alert_data['recommendations']:
-            message.append("\nRecommendations:")
+            parts.append("\n⚠️ Recommendations:")
             for rec in alert_data['recommendations']:
-                message.append(f"• {rec}")
-        
-        return '\n'.join(message)
+                parts.append(f"   • {rec}")
+
+        return "\n".join(parts)
     
     def _generate_html_alert(self, alert_data: Dict[str, Any]) -> str:
         """Generate HTML formatted alert."""

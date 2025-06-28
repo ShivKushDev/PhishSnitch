@@ -1469,5 +1469,653 @@
         }
       }
     }
+  },
+  {
+    "timestamp": "2025-06-27T20:51:11.498687",
+    "risk_level": "LOW",
+    "threat_score": 25,
+    "url": "https://legitimate-company.com/newsletter",
+    "email_info": {
+      "subject": "Regular Newsletter",
+      "sender": "newsletter@legitimate-company.com",
+      "received_time": "2025-06-27T20:51:11.498687"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:51:11.498687",
+      "verdicts": {
+        "overall": {
+          "malicious": false
+        },
+        "engines": {
+          "malicious": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:51:11.504040",
+    "risk_level": "MEDIUM",
+    "threat_score": 55,
+    "url": "https://company-service.net/update",
+    "email_info": {
+      "subject": "Account Update Required",
+      "sender": "service@company.com",
+      "received_time": "2025-06-27T20:51:11.504040"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:51:11.504040",
+      "verdicts": {
+        "overall": {
+          "malicious": false
+        },
+        "engines": {
+          "malicious": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:51:11.508049",
+    "risk_level": "HIGH",
+    "threat_score": 85,
+    "url": "http://suspicious-domain.com/reset",
+    "email_info": {
+      "subject": "Urgent: Password Reset Required",
+      "sender": "security@suspicious-domain.com",
+      "received_time": "2025-06-27T20:51:11.508049"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:51:11.508049",
+      "verdicts": {
+        "overall": {
+          "malicious": true
+        },
+        "engines": {
+          "malicious": true
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:51:11.519541",
+    "risk_level": "CRITICAL",
+    "threat_score": 95,
+    "url": "http://fake-bank.com/secure",
+    "email_info": {
+      "subject": "Your Account Has Been Compromised",
+      "sender": "security@fake-bank.com",
+      "received_time": "2025-06-27T20:51:11.518535"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:51:11.518535",
+      "verdicts": {
+        "overall": {
+          "malicious": true
+        },
+        "engines": {
+          "malicious": true
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:51:11.525541",
+    "risk_level": "CRITICAL",
+    "threat_score": 90,
+    "url": "http://paypal-secure-login.com/verify",
+    "email_info": {
+      "subject": "PayPal: Unusual Activity Detected",
+      "sender": "service@paypal-secure-login.com",
+      "received_time": "2025-06-27T20:51:11.525541"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.9,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2",
+      "Suspected PayPal phishing attempt"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:51:11.525541",
+      "verdicts": {
+        "overall": {
+          "malicious": true
+        },
+        "engines": {
+          "malicious": true
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:51:11.532837",
+    "risk_level": "HIGH",
+    "threat_score": 75,
+    "url": "http://suspicious-docs.com/view",
+    "email_info": {
+      "subject": "Shared Document: Financial Report",
+      "sender": "drive-share@suspicious-docs.com",
+      "received_time": "2025-06-27T20:51:11.532837"
+    },
+    "threats": {
+      "domain_age": 0.9,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2",
+      "Suspicious file sharing domain"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:51:11.532837",
+      "verdicts": {
+        "overall": {
+          "malicious": true
+        },
+        "engines": {
+          "malicious": true
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:53:45.088741",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:53:45.088741",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:55:44.384380",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:55:44.384380",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:56:00.073486",
+    "risk_level": "LOW",
+    "threat_score": 25,
+    "url": "https://legitimate-company.com/newsletter",
+    "email_info": {
+      "subject": "Regular Newsletter",
+      "sender": "newsletter@legitimate-company.com",
+      "received_time": "2025-06-27T20:56:00.073486"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:56:00.073486",
+      "verdicts": {
+        "overall": {
+          "malicious": false
+        },
+        "engines": {
+          "malicious": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:56:00.078491",
+    "risk_level": "MEDIUM",
+    "threat_score": 55,
+    "url": "https://company-service.net/update",
+    "email_info": {
+      "subject": "Account Update Required",
+      "sender": "service@company.com",
+      "received_time": "2025-06-27T20:56:00.078491"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:56:00.078491",
+      "verdicts": {
+        "overall": {
+          "malicious": false
+        },
+        "engines": {
+          "malicious": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:56:00.082579",
+    "risk_level": "HIGH",
+    "threat_score": 85,
+    "url": "http://suspicious-domain.com/reset",
+    "email_info": {
+      "subject": "Urgent: Password Reset Required",
+      "sender": "security@suspicious-domain.com",
+      "received_time": "2025-06-27T20:56:00.082579"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:56:00.082579",
+      "verdicts": {
+        "overall": {
+          "malicious": true
+        },
+        "engines": {
+          "malicious": true
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:56:00.089486",
+    "risk_level": "CRITICAL",
+    "threat_score": 95,
+    "url": "http://fake-bank.com/secure",
+    "email_info": {
+      "subject": "Your Account Has Been Compromised",
+      "sender": "security@fake-bank.com",
+      "received_time": "2025-06-27T20:56:00.089486"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:56:00.089486",
+      "verdicts": {
+        "overall": {
+          "malicious": true
+        },
+        "engines": {
+          "malicious": true
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:56:00.097488",
+    "risk_level": "CRITICAL",
+    "threat_score": 90,
+    "url": "http://paypal-secure-login.com/verify",
+    "email_info": {
+      "subject": "PayPal: Unusual Activity Detected",
+      "sender": "service@paypal-secure-login.com",
+      "received_time": "2025-06-27T20:56:00.096573"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.9,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2",
+      "Suspected PayPal phishing attempt"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:56:00.097488",
+      "verdicts": {
+        "overall": {
+          "malicious": true
+        },
+        "engines": {
+          "malicious": true
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T20:56:00.105839",
+    "risk_level": "HIGH",
+    "threat_score": 75,
+    "url": "http://suspicious-docs.com/view",
+    "email_info": {
+      "subject": "Shared Document: Financial Report",
+      "sender": "drive-share@suspicious-docs.com",
+      "received_time": "2025-06-27T20:56:00.105839"
+    },
+    "threats": {
+      "domain_age": 0.9,
+      "ssl_cert": 0.8,
+      "malicious_patterns": 0.3,
+      "redirect_chain": 0.2,
+      "security_checks": 0.4
+    },
+    "recommendations": [
+      "Test recommendation 1",
+      "Test recommendation 2",
+      "Suspicious file sharing domain"
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T20:56:00.105839",
+      "verdicts": {
+        "overall": {
+          "malicious": true
+        },
+        "engines": {
+          "malicious": true
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T21:00:17.403806",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T21:00:17.403806",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-27T21:02:37.221235",
+    "risk_level": "LOW",
+    "threat_score": 28,
+    "url": "https://urlscan.io/result/0197a354-b913-7298-bb2e-a3b427a47a79/",
+    "email_info": {
+      "subject": "Reset your password now!",
+      "sender": "Shiv Kushwaha <singhshivag@gmail.com>",
+      "received_time": "Tue, 24 Jun 2025 15:06:09 -0400"
+    },
+    "threats": {
+      "domain_age": 0.5,
+      "ssl_cert": 1.0,
+      "redirect_chain": 0.0,
+      "malicious_patterns": 0.0,
+      "security_checks": 0.0
+    },
+    "recommendations": [
+      "SSL certificate issues detected. Verify website legitimacy."
+    ],
+    "scan_data": {
+      "scan_time": "2025-06-27T21:02:37.220235",
+      "verdicts": {
+        "overall": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "urlscan": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "tags": [],
+          "malicious": false,
+          "hasVerdicts": false
+        },
+        "engines": {
+          "score": 0,
+          "categories": [],
+          "enginesTotal": 0,
+          "maliciousTotal": 0,
+          "benignTotal": 0,
+          "maliciousVerdicts": [],
+          "benignVerdicts": [],
+          "malicious": false
+        },
+        "community": {
+          "score": 0,
+          "categories": [],
+          "brands": [],
+          "votesTotal": 0,
+          "votesMalicious": 0,
+          "votesBenign": 0,
+          "malicious": false,
+          "hasVerdicts": false
+        }
+      }
+    }
   }
 ]

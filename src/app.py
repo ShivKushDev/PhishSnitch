@@ -163,9 +163,12 @@ class EmailThreatAnalyzer:
                         # Always process alert to show score, regardless of threshold
                         self.alert_manager.process_alert(threat_data, email_data)
                         
-                        # Log the analysis
-                        logger.info(f"Analyzed URL: {original_url}")
-                        logger.info(f"Threat Score: {threat_data['score']}/100")
+                        # Log the URL analysis in a single, formatted message
+                        logger.info(f"""
+🔍 URL Analysis Results:
+   URL: {original_url}
+   Score: {threat_data['score']}/100
+""")
                 
         except Exception as e:
             logger.error(f"Failed to process email: {str(e)}")
