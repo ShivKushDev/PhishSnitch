@@ -107,15 +107,5 @@ data/alert_history.json
 logs/
 *.log
 token.json
-
-# Images and media
-*.png
-*.jpg
-*.jpeg
-*.gif
-!assets/logo.png    # Keep the project logo
-
-# Other
-*.cache
-.DS_Store
-Thumbs.db
+PHISH SNITCH.png
+readme_revisions/
