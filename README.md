@@ -105,6 +105,12 @@ python src/app.py
 - Logs saved in `logs/app.log`
 - Alerts stored in `data/alert_history.json`
 
+> **Note:** If Ctrl+C doesn't stop the application, use PowerShell command:
+> ```powershell
+> Get-Process python | Stop-Process
+> ```
+> This will forcefully terminate all Python processes.
+
 ---
 
 ## 🚨 Risk Scoring
