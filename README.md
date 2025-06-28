@@ -1,9 +1,8 @@
 <div align="center">
   <hr>
   
-  <!-- === Banner Placeholder === -->
-  <!-- Replace below with your actual banner image URL -->
-  ![PhishSnitch Banner](https://github.com/ShivKushDev/PhishSnitch/blob/main/PHISH%20SNITCH.png?raw=true)
+  <!-- Banner -->
+  ![PhishSnitch Banner](https://github.com/ShivKushDev/PhishSnitch/blob/main/phishsnitchbanner.gif?raw=true)
 
   <hr>
   <h3 align="center">
@@ -154,12 +153,25 @@ python -m pytest --cov=src tests/
 
 ---
 
-[comment]: ## 📸 Screenshots & Demos
-[comment]: 
-[comment]: <!-- Replace these placeholders with actual image URLs -->
-[comment]: - ![UI Screenshot](PLACEHOLDER_FOR_UI_IMAGE)
-[comment]: - ![Alert Notification](PLACEHOLDER_FOR_NOTIFICATION_IMAGE)
-[comment]: - ![JSON History](PLACEHOLDER_FOR_HISTORY_IMAGE)
+## 📸 Screenshots & Demos
+
+### Real-time Monitoring & Alerts
+![Alert Notifications](https://github.com/ShivKushDev/PhishSnitch/blob/main/alert_noti.png?raw=true)
+*Desktop notifications for immediate threat awareness*
+
+### Comprehensive Risk Analysis
+![Critical Risk Alert](https://github.com/ShivKushDev/PhishSnitch/blob/main/critial_risk_alert_info.png?raw=true)
+*Detailed analysis of critical security threats*
+
+![High Risk Alert](https://github.com/ShivKushDev/PhishSnitch/blob/main/high_risk_alert.png?raw=true)
+*High risk threat detection with detailed scoring*
+
+![Medium Risk Alert](https://github.com/ShivKushDev/PhishSnitch/blob/main/medium_risk_alert.png?raw=true)
+*Medium risk assessment with comprehensive analysis*
+
+### Live Testing
+![Real-time Testing](https://github.com/ShivKushDev/PhishSnitch/blob/main/realtime_test.png?raw=true)
+*Real-time threat detection and analysis in action*
 
 ---
 
