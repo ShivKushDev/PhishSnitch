@@ -2,7 +2,7 @@
   <hr>
   
   <!-- Banner -->
-![PhishSnitch Banner](https://github.com/ShivKushDev/PhishSnitch/blob/main/docs/images/phishsnitchbanner.gif?raw=true)
+![PhishSnitch Banner](https://github.com/ShivKushDev/PhishSnitch/blob/main/img/phishsnitchbanner.gif?raw=true)
 
   <hr>
   <h3 align="center">
